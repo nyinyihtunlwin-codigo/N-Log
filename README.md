@@ -16,6 +16,7 @@ A Simple and Pretty Log Library.
  	dependencies {
 	        compile 'com.github.nyinyihtunlwin:Library-LogDebug:0.1.1'
 	}
+
 ```
 
 ### Options
