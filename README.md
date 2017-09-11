@@ -14,7 +14,7 @@ A Simple and Pretty Log Library.
  ###### Step 2. Add the dependency
  ```
  	dependencies {
-	        compile 'com.github.nyinyihtunlwin:Library-LogDebug:0.1.0'
+	        compile 'com.github.nyinyihtunlwin:Library-LogDebug:0.1.1'
 	}
 ```
 
