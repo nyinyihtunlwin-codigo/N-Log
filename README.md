@@ -1,4 +1,4 @@
-# Library-LogDebug
+# N-Log
 A Simple and Clean Log Library.
 ### How to
 ###### Step 1. Add it in your root build.gradle at the end of repositories:
