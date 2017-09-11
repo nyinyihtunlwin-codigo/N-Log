@@ -117,8 +117,8 @@ public class L {
         tagData += tag;
         tagger += " :";
         bar += "=*";
-        Log.wtf(tagger, bar);
+        Log.e(tagger, bar);
         Log.wtf(tagData, message + " |");
-        Log.wtf(tagger, bar);
+        Log.e(tagger, bar);
     }
 }

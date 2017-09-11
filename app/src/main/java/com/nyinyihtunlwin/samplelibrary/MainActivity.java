@@ -11,10 +11,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        L.d("Hey-Debug", "HelloWorld");
-        L.e("Hey-Error", "HelloWorld, This is error log.");
-        L.i("Hey-Info", "HelloWorld");
-        L.w("Hey-W", "HelloWorld");
-        L.wtf("Hey-WTF", "HelloWorld");
+
+        L.d("Debug-Tag", "HelloWorld, This is Debug log.");
+        L.e("Error-Tag", "HelloWorld, This is Error log.");
+        L.i("Info-Tag", "HelloWorld,This is Info log.");
+        L.w("Warn-Tag", "HelloWorld, This is Warn log.");
+        L.wtf("WTF-Tag", "HelloWorld, This is WTF log.");
     }
 }
